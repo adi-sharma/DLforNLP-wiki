@@ -3,7 +3,7 @@ Wiki for the Deep Learning for NLP course at Indian Institute of Science, Bangal
 
 ## -----------------------------------------------------------------------------
 
-## Presentation Groups
+## Project Groups
 	1. Understanding the Geometrical Relationship among Word Vectors - Aditya Sharma, Chandrahas
 	2. <Title> - Shikhar, Swayambhu, Shib Shankar
   
