@@ -5,9 +5,10 @@ Wiki for the Deep Learning for Natural Language Processing [course](http://www.c
 
 ## Project Groups
 	1. Understanding the Geometrical Relationship among Word Vectors - Aditya Sharma, Chandrahas
-	2. Exploring applications of GCNs in NLP - Shikhar, Swayambhu, Shib Shankar
-	3. Hierarchical attention network - Vaijenath, Anil, Pratik
-	4. Question Answer System - Rohith AP, Ronit Halder, V Nidhin Krishnan.
+	2. Comparative Study of Neural Language Models - Abhinash Khare, Soham Pal, Sruthi Gorantla
+	3. Exploring applications of GCNs in NLP - Shikhar, Swayambhu, Shib Shankar
+	4. Hierarchical attention network - Vaijenath, Anil, Pratik
+	5. Question Answer System - Rohith AP, Ronit Halder, V Nidhin Krishnan.
   
 ## -----------------------------------------------------------------------------
 
@@ -16,6 +17,13 @@ Team Members - Aditya Sharma, Chandrahas
 1. October 13th, 2017:
 	* Levy, O. and Goldberg, Y., 2014. **Neural word embedding as implicit matrix factorization**. In Advances in neural information processing systems (pp. 2177-2185). [[Paper]](http://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf)
 	* Levy, O., Goldberg, Y. and Dagan, I., 2015. **Improving distributional similarity with lessons learned from word embeddings**. Transactions of the Association for Computational Linguistics, 3, pp.211-225. [[Paper]](http://www.aclweb.org/anthology/Q15-1016)
+
+### Comparative Study of Neural Language Models
+Team Members - Abhinash Khare, Soham Pal, Sruthi Gorantla
+1. October 20th, 2017:
+	* Wang Ling, Isabel Trancoso, Chris Dyer, Alan W Black. **Character-based Neural Machine Translation.** [[Paper]](https://arxiv.org/abs/1511.04586)
+	* Rafal Jozefowicz, Oriol Vinyals, Mike Schuster, Noam Shazeer, Yonghui Wu. **Exploring the Limits of Language Modeling.** [[Paper]](https://arxiv.org/abs/1602.02410)
+	* Huihsin Tseng, Pichuan Chang, Galen Andrew, Daniel Jurafsky, Christopher Manning. **A Conditional Random Field Word Segmenter.** [[Paper]](https://nlp.stanford.edu/pubs/sighan2005.pdf)
 
 ### Exploring applications of GCNs in NLP
 Team Members - Shikhar, Shib, Swayambhu
@@ -34,3 +42,4 @@ Team Members - Rohith AP, Ronit Halder, V Nidhin Krishnan
 1. November 10th, 2017:
 	* Shuohang Wang, Jing Jiang **Machine Comprehension Using Match-LSTM and Answer Pointer.** [[Paper]](https://arxiv.org/abs/1608.07905)
 	* Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes. **Reading Wikipedia to Answer Open-Domain Questions**. [[Paper]](https://arxiv.org/abs/1704.00051)
+
