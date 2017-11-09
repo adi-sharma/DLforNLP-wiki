@@ -7,6 +7,7 @@ Wiki for the Deep Learning for Natural Language Processing [course](http://www.c
 	1. Understanding the Geometrical Relationship among Word Vectors - Aditya Sharma, Chandrahas
 	2. Exploring applications of GCNs in NLP - Shikhar, Swayambhu, Shib Shankar
 	3. Hierarchical attention network - Vaijenath, Anil, Pratik
+	4. Question Answer System - Rohith AP, Ronit Halder, V Nidhin Krishnan.
   
 ## -----------------------------------------------------------------------------
 
@@ -27,3 +28,9 @@ Team Members - Vaijenath, Anil, Pratik
 1. November 10th, 2017:
 	* Yang, Z., Yang, D., Dyer, C., He, X., Smola, A.J. and Hovy, E.H., 2016. **Hierarchical Attention Networks for Document Classification**. In HLT-NAACL (pp. 1480-1489). [[Paper]](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
 	* Xu, J., Chen, D., Qiu, X. and Huang, X., **Cached Long Short-Term Memory Neural Networks for Document-Level Sentiment Classification**. [[Paper]](http://www.anthology.aclweb.org/D/D16/D16-1172.pdf)
+
+### Question Answer System
+Team Members - Rohith AP, Ronit Halder, V Nidhin Krishnan
+1. November 10th, 2017:
+	* Shuohang Wang, Jing Jiang **Machine Comprehension Using Match-LSTM and Answer Pointer.** [[Paper]](https://arxiv.org/abs/1608.07905)
+	* Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes. **Reading Wikipedia to Answer Open-Domain Questions**. [[Paper]](https://arxiv.org/abs/1704.00051)
