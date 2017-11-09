@@ -20,3 +20,8 @@ Wiki for the Deep Learning for NLP course at Indian Institute of Science, Bangal
 	* Defferrard, Michaël, Xavier Bresson, and Pierre Vandergheynst. **Convolutional neural networks on graphs with fast localized spectral filtering.** Advances in Neural Information Processing Systems. 2016.
 	* Marcheggiani, Diego, and Ivan Titov. **Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling.** arXiv preprint arXiv:1703.04826 (2017).
 
+
+### Hierarchical attention network
+##### (Vaijenath, Anil, Pratik)
+1. [date]:
+	* Yang, Z., Yang, D., Dyer, C., He, X., Smola, A.J. and Hovy, E.H., 2016. **Hierarchical Attention Networks for Document Classification**. In HLT-NAACL (pp. 1480-1489). [[Paper]](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
