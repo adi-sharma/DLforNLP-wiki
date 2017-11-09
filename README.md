@@ -17,8 +17,8 @@ Wiki for the Deep Learning for NLP course at Indian Institute of Science, Bangal
 
 ##### (Shikhar, Shib, Swayambhu)
 1. October 20th, 2017:
-	* Defferrard, Michaël, Xavier Bresson, and Pierre Vandergheynst. **Convolutional neural networks on graphs with fast localized spectral filtering.** Advances in Neural Information Processing Systems. 2016.
-	* Marcheggiani, Diego, and Ivan Titov. **Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling.** arXiv preprint arXiv:1703.04826 (2017).
+	* Defferrard, Michaël, Xavier Bresson, and Pierre Vandergheynst. **Convolutional neural networks on graphs with fast localized spectral filtering.** Advances in Neural Information Processing Systems. 2016. [[Paper]](http://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf)
+	* Marcheggiani, Diego, and Ivan Titov. **Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling.** arXiv preprint arXiv:1703.04826 (2017). [[Paper]](http://www.aclweb.org/anthology/D17-1159)
 
 ### Hierarchical attention network
 ##### (Vaijenath, Anil, Pratik)
