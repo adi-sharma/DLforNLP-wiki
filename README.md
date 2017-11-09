@@ -1,5 +1,5 @@
 # Deep Learning for NLP - wiki
-Wiki for the Deep Learning for NLP course at Indian Institute of Science, Bangalore - Aug 2017 to Dec 2017
+Wiki for the Deep Learning for Natural Language Processing [course](http://www.csa.iisc.ernet.in/academics/academics-courses-desc.php#E0334) at Indian Institute of Science, Bangalore - Aug 2017 to Dec 2017
 
 ## -----------------------------------------------------------------------------
 
