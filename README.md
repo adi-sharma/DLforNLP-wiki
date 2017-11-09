@@ -24,6 +24,6 @@ Team Members - Shikhar, Shib, Swayambhu
 
 ### Hierarchical attention network
 Team Members - Vaijenath, Anil, Pratik
-1. [date]:
+1. November 10th, 2017:
 	* Yang, Z., Yang, D., Dyer, C., He, X., Smola, A.J. and Hovy, E.H., 2016. **Hierarchical Attention Networks for Document Classification**. In HLT-NAACL (pp. 1480-1489). [[Paper]](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
 	* Xu, J., Chen, D., Qiu, X. and Huang, X., **Cached Long Short-Term Memory Neural Networks for Document-Level Sentiment Classification**. [[Paper]](http://www.anthology.aclweb.org/D/D16/D16-1172.pdf)
