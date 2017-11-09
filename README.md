@@ -6,6 +6,7 @@ Wiki for the Deep Learning for NLP course at Indian Institute of Science, Bangal
 ## Project Groups
 	1. Understanding the Geometrical Relationship among Word Vectors - Aditya Sharma, Chandrahas
 	2. Exploring applications of GCNs in NLP - Shikhar, Swayambhu, Shib Shankar
+	3. Hierarchical attention network - Vaijenath, Anil, Pratik
   
 ## -----------------------------------------------------------------------------
 
