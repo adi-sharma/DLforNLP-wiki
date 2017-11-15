@@ -46,7 +46,7 @@ Team Members - Rohith AP, Ronit Halder, V Nidhin Krishnan
 
 ### Combined Neural Models: Comparison and Analysis
 Team Members - Soumalya Seal, Srinidhi R, Balasubramaniam S
-November 8th, 2017:
-	* Xingyou Wang,Weijie Jiang, Zhiyong Luo **Combination of Convolutional and Recurrent Neural Network for Sentiment Analysis of Short Texts.** [[Paper]](https://pdfs.semanticscholar.org/a0c3/b9083917b6c2368ebf09483a594821c5018a.pdf)
-	* Chunting Zhou, Chonglin Sun, Zhiyuan Liu, Francis C.M. Lau **A C-LSTM Neural Network for Text Classification**. [[Paper]](https://arxiv.org/abs/1511.08630)
-	* Siwei Lai, Liheng Xu, Kang Liu, Jun Zhao **Recurrent convolutional neural networks for text classification**. [[Paper]](https://pdfs.semanticscholar.org/eba3/6ac75bf22edf9a1bfd33244d459c75b98305.pdf)
+1. November 8th, 2017:
+	* Xingyou Wang,Weijie Jiang, Zhiyong Luo **Combination of Convolutional and Recurrent Neural Network for Sentiment Analysis of Short Texts.** [[Paper](https://pdfs.semanticscholar.org/a0c3/b9083917b6c2368ebf09483a594821c5018a.pdf)]
+	* Chunting Zhou, Chonglin Sun, Zhiyuan Liu, Francis C.M. Lau **A C-LSTM Neural Network for Text Classification**. [[Paper](https://arxiv.org/abs/1511.08630)]
+	* Siwei Lai, Liheng Xu, Kang Liu, Jun Zhao **Recurrent convolutional neural networks for text classification**. [[Paper](https://pdfs.semanticscholar.org/eba3/6ac75bf22edf9a1bfd33244d459c75b98305.pdf)]
