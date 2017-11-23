@@ -6,7 +6,7 @@ Wiki for the Deep Learning for Natural Language Processing [course](http://www.c
 ## Project Groups
 	1. Understanding the Geometrical Relationship among Word Vectors - Aditya Sharma, Chandrahas
 	2. Comparative Study of Neural Language Models - Abhinash Khare, Soham Pal, Sruthi Gorantla
-	3. Exploring applications of GCNs in NLP - Shikhar, Swayambhu, Shib Shankar
+	3. Document time stamping using Graph Convolutional Networks - Shikhar, Swayambhu, Shib Shankar
 	4. Hierarchical attention network - Vaijenath, Anil, Pratik
 	5. Question Answer System - Rohith AP, Ronit Halder, V Nidhin Krishnan.
 	6. Combined Neural Models: Comparison and Analysis - Soumalya, Srinighi, Bala
@@ -26,7 +26,7 @@ Team Members - Abhinash Khare, Soham Pal, Sruthi Gorantla
 	* Rafal Jozefowicz, Oriol Vinyals, Mike Schuster, Noam Shazeer, Yonghui Wu. **Exploring the Limits of Language Modeling.** [[Paper]](https://arxiv.org/abs/1602.02410)
 	* Huihsin Tseng, Pichuan Chang, Galen Andrew, Daniel Jurafsky, Christopher Manning. **A Conditional Random Field Word Segmenter.** [[Paper]](https://nlp.stanford.edu/pubs/sighan2005.pdf)
 
-### Exploring applications of GCNs in NLP
+### Document time stamping using Graph Convolutional Networks
 Team Members - Shikhar, Shib, Swayambhu
 1. October 20th, 2017:
 	* Defferrard, Michaël, Xavier Bresson, and Pierre Vandergheynst. **Convolutional neural networks on graphs with fast localized spectral filtering.** Advances in Neural Information Processing Systems. 2016. [[Paper]](http://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf)
