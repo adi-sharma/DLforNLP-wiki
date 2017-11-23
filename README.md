@@ -43,6 +43,7 @@ Team Members - Rohith AP, Ronit Halder, V Nidhin Krishnan
 1. November 10th, 2017:
 	* Shuohang Wang, Jing Jiang **Machine Comprehension Using Match-LSTM and Answer Pointer.** [[Paper]](https://arxiv.org/abs/1608.07905)
 	* Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes. **Reading Wikipedia to Answer Open-Domain Questions**. [[Paper]](https://arxiv.org/abs/1704.00051)
+	* Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi,and Hannaneh Hajishirzi.  2016. **Bidirectional attention flow for machine comprehension.**[[Paper]](https://arxiv.org/pdf/1611.01603.pdf)
 
 ### Combined Neural Models: Comparison and Analysis
 Team Members - Soumalya Seal, Srinidhi R, Balasubramaniam S
