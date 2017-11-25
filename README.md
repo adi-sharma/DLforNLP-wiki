@@ -10,7 +10,7 @@ Wiki for the Deep Learning for Natural Language Processing [course](http://www.c
 	4. Hierarchical attention network - Vaijenath, Anil, Pratik
 	5. Question Answer System - Rohith AP, Ronit Halder, V Nidhin Krishnan.
 	6. Combined Neural Models: Comparison and Analysis - Soumalya, Srinighi, Bala
-	7. Transfer Learning for NLP with application to detecting duplicate question pairs - Krishna Bharat, Rantej, Ravi Shankar
+	7. Transfer Learning for NLP with application to detecting duplicate question pairs - Krishna, Rantej, Ravi
   
 ## -----------------------------------------------------------------------------
 
