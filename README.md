@@ -12,7 +12,8 @@ Wiki for the Deep Learning for Natural Language Processing [course](http://www.c
 	6. Combined Neural Models: Comparison and Analysis - Soumalya, Srinighi, Bala
 	7. Transfer Learning for NLP with application to detecting duplicate question pairs - Krishna, Rantej, Ravi
 	8. Neural Machine Translation - Kinsuk Sarkar, Maulik Parmar, Ayappa Kumar
-	9. Machine Comprehension - Rohith, Ronit Haldar, Nidhin
+	9. Topic Modeling - Tushar, Sridhar
+
 	
   
 ## -----------------------------------------------------------------------------
@@ -71,9 +72,9 @@ Team Members - Kinsuk Sarkar, Maulik Parmar, Ayappa Kumar
 	* Wu, Y., Schuster, M., Chen, Z., Le, Q.V., Norouzi, M., Macherey, W., Krikun, M., Cao, Y., Gao, Q., Macherey, K. and Klingner, J. **Googles's Neural Machine Translation System:  Bridging the gap between Human and Machine Translation**. [[Paper](https://arxiv.org/pdf/1609.08144.pdf)]
 	
 	
-### Machine Comprehension 
-Team Members - Rohith, Ronit Haldar, Nidhin
+### Topic Modeling
+Team Members - Tushar, Sridhar
 1. October 20th, 2017:
-	* Shuohang Wang, Jing Jiang **Machine Comprehension Using Match-LSTM and Answer Pointer.** [[Paper](https://arxiv.org/abs/1608.07905)]
-	* Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes. **Reading Wikipedia to Answer Open-Domain Questions**. [[Paper](https://arxiv.org/abs/1704.00051)]	
-	* Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi,and Hannaneh Hajishirzi. **Bidirectional attention flow for machine comprehension**. [[Paper](https://arxiv.org/pdf/1611.01603.pdf)]
+	* Moody **Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec.** [[Paper](https://arxiv.org/abs/1605.02019)]
+	* Sridhar, V.K.R. **Unsupervised Topic Modeling for Short Texts Using Distributed Representations of Words**. [[Paper](http://www.aclweb.org/anthology/W15-1526)]
+	
