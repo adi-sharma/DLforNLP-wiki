@@ -11,6 +11,9 @@ Wiki for the Deep Learning for Natural Language Processing [course](http://www.c
 	5. Question Answer System - Rohith AP, Ronit Halder, V Nidhin Krishnan.
 	6. Combined Neural Models: Comparison and Analysis - Soumalya, Srinighi, Bala
 	7. Transfer Learning for NLP with application to detecting duplicate question pairs - Krishna, Rantej, Ravi
+	8. Neural Machine Translation - Kinsuk Sarkar, Maulik Parmar, Ayappa Kumar
+	9. Machine Comprehension - Rohith, Ronit Haldar, Nidhin
+	
   
 ## -----------------------------------------------------------------------------
 
@@ -60,3 +63,16 @@ Team Members -  Krishna Bharat, Rantej, Ravi Shankar
 	* Lili Mou, Zhao Meng,Rui Yan, Ge Li, Yan Xu, Lu Zhang, Zhi Jin **How Transferable are Neural Networks in NLP Applications?** [[Paper](https://arxiv.org/pdf/1603.06111.pdf)]
 	* Zhilin Yang, Ruslan Salakhutdinov, William W Cohen **Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks**. [[Paper](https://arxiv.org/pdf/1703.06345.pdf)]
 	* Seunghyun Yoon, Hyeongu Yun, Yuna Kim, Gyu-tae Park, Kyomin Jung **Efficient Transfer Learning Schemes for Personalized Language Modeling using Recurrent Neural Network**. [[Paper](https://arxiv.org/pdf/1701.03578.pdf)]
+	
+### Neural Machine Translation
+Team Members - Kinsuk Sarkar, Maulik Parmar, Ayappa Kumar
+1. October 20th, 2017:
+	* Sutskever, I., Vinyals, O. and Le, Q.V **Sequence to Sequence Learning with Neural Networks.** [[Paper](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)]
+	* Wu, Y., Schuster, M., Chen, Z., Le, Q.V., Norouzi, M., Macherey, W., Krikun, M., Cao, Y., Gao, Q., Macherey, K. and Klingner, J. **Googles's Neural Machine Translation System:  Bridging the gap between Human and Machine Translation**. [[Paper](https://arxiv.org/pdf/1609.08144.pdf)]
+	
+	
+### Machine Comprehension 
+Team Members - Rohith, Ronit Haldar, Nidhin
+1. October 20th, 2017:
+	* Shuohang Wang, Jing Jiang **Machine Comprehension Using Match-LSTM and Answer Pointer.** [[Paper](https://arxiv.org/abs/1608.07905)]
+	* Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes. **Reading Wikipedia to Answer Open-Domain Questions**. [[Paper](https://arxiv.org/abs/1704.00051)]	
