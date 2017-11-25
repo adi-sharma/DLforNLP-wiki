@@ -13,6 +13,7 @@ Wiki for the Deep Learning for Natural Language Processing [course](http://www.c
 	7. Transfer Learning for NLP with application to detecting duplicate question pairs - Krishna, Rantej, Ravi
 	8. Neural Machine Translation - Kinsuk Sarkar, Maulik Parmar, Ayappa Kumar
 	9. Topic Modeling - Tushar, Sridhar
+	10. Reinforcement Learning for NLP - Keshav
 
 	
   
@@ -53,28 +54,33 @@ Team Members - Rohith AP, Ronit Halder, V Nidhin Krishnan
 ### Combined Neural Models: Comparison and Analysis
 Team Members - Soumalya Seal, Srinidhi R, Balasubramaniam S
 1. November 8th, 2017:
-	* Xingyou Wang,Weijie Jiang, Zhiyong Luo **Combination of Convolutional and Recurrent Neural Network for Sentiment Analysis of Short Texts.** [[Paper](https://pdfs.semanticscholar.org/a0c3/b9083917b6c2368ebf09483a594821c5018a.pdf)]
-	* Chunting Zhou, Chonglin Sun, Zhiyuan Liu, Francis C.M. Lau **A C-LSTM Neural Network for Text Classification**. [[Paper](https://arxiv.org/abs/1511.08630)]
-	* Siwei Lai, Liheng Xu, Kang Liu, Jun Zhao **Recurrent convolutional neural networks for text classification**. [[Paper](https://pdfs.semanticscholar.org/eba3/6ac75bf22edf9a1bfd33244d459c75b98305.pdf)]
+	* Xingyou Wang,Weijie Jiang, Zhiyong Luo, **Combination of Convolutional and Recurrent Neural Network for Sentiment Analysis of Short Texts.** [[Paper](https://pdfs.semanticscholar.org/a0c3/b9083917b6c2368ebf09483a594821c5018a.pdf)]
+	* Chunting Zhou, Chonglin Sun, Zhiyuan Liu, Francis C.M. Lau, **A C-LSTM Neural Network for Text Classification**. [[Paper](https://arxiv.org/abs/1511.08630)]
+	* Siwei Lai, Liheng Xu, Kang Liu, Jun Zhao, **Recurrent convolutional neural networks for text classification**. [[Paper](https://pdfs.semanticscholar.org/eba3/6ac75bf22edf9a1bfd33244d459c75b98305.pdf)]
 	
 	
 ### Transfer Learning for NLP with application to detecting duplicate question pairs -
 Team Members -  Krishna Bharat, Rantej, Ravi Shankar
 1. October 13th, 2017:
-	* Lili Mou, Zhao Meng,Rui Yan, Ge Li, Yan Xu, Lu Zhang, Zhi Jin **How Transferable are Neural Networks in NLP Applications?** [[Paper](https://arxiv.org/pdf/1603.06111.pdf)]
-	* Zhilin Yang, Ruslan Salakhutdinov, William W Cohen **Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks**. [[Paper](https://arxiv.org/pdf/1703.06345.pdf)]
-	* Seunghyun Yoon, Hyeongu Yun, Yuna Kim, Gyu-tae Park, Kyomin Jung **Efficient Transfer Learning Schemes for Personalized Language Modeling using Recurrent Neural Network**. [[Paper](https://arxiv.org/pdf/1701.03578.pdf)]
+	* Lili Mou, Zhao Meng,Rui Yan, Ge Li, Yan Xu, Lu Zhang, Zhi Jin, **How Transferable are Neural Networks in NLP Applications?** [[Paper](https://arxiv.org/pdf/1603.06111.pdf)]
+	* Zhilin Yang, Ruslan Salakhutdinov, William W Cohen, **Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks**. [[Paper](https://arxiv.org/pdf/1703.06345.pdf)]
+	* Seunghyun Yoon, Hyeongu Yun, Yuna Kim, Gyu-tae Park, Kyomin Jung, **Efficient Transfer Learning Schemes for Personalized Language Modeling using Recurrent Neural Network**. [[Paper](https://arxiv.org/pdf/1701.03578.pdf)]
 	
 ### Neural Machine Translation
 Team Members - Kinsuk Sarkar, Maulik Parmar, Ayappa Kumar
 1. October 20th, 2017:
-	* Sutskever, I., Vinyals, O. and Le, Q.V **Sequence to Sequence Learning with Neural Networks.** [[Paper](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)]
-	* Wu, Y., Schuster, M., Chen, Z., Le, Q.V., Norouzi, M., Macherey, W., Krikun, M., Cao, Y., Gao, Q., Macherey, K. and Klingner, J. **Googles's Neural Machine Translation System:  Bridging the gap between Human and Machine Translation**. [[Paper](https://arxiv.org/pdf/1609.08144.pdf)]
+	* Sutskever, I., Vinyals, O. and Le, Q.V, **Sequence to Sequence Learning with Neural Networks.** [[Paper](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)]
+	* Wu, Y., Schuster, M., Chen, Z., Le, Q.V., Norouzi, M., Macherey, W., Krikun, M., Cao, Y., Gao, Q., Macherey, K. and Klingner, J., **Googles's Neural Machine Translation System:  Bridging the gap between Human and Machine Translation**. [[Paper](https://arxiv.org/pdf/1609.08144.pdf)]
 	
 	
 ### Topic Modeling
 Team Members - Tushar, Sridhar
 1. October 20th, 2017:
-	* Moody **Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec.** [[Paper](https://arxiv.org/abs/1605.02019)]
-	* Sridhar, V.K.R. **Unsupervised Topic Modeling for Short Texts Using Distributed Representations of Words**. [[Paper](http://www.aclweb.org/anthology/W15-1526)]
+	* Moody, **Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec.** [[Paper](https://arxiv.org/abs/1605.02019)]
+	* Sridhar, V.K.R., **Unsupervised Topic Modeling for Short Texts Using Distributed Representations of Words**. [[Paper](http://www.aclweb.org/anthology/W15-1526)]
 	
+### Reinforcement Learning for NLP
+Team Members - Keshav
+1. November 8th, 2017:
+	* Yogatama, D., Blunsom, P., Dyer, C., Grefenstette, E. and Ling, W., **Learning to compose words into sentences with reinforcement learning.** [[Paper](https://arxiv.org/pdf/1611.09100.pdf)]
+	* Tai, K.S., Socher, R. and Manning, C.D., **Improved semantic representations from tree-structured long short-term memory networks**. [[Paper](https://arxiv.org/pdf/1503.00075)]
