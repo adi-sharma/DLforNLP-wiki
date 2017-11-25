@@ -10,6 +10,7 @@ Wiki for the Deep Learning for Natural Language Processing [course](http://www.c
 	4. Hierarchical attention network - Vaijenath, Anil, Pratik
 	5. Question Answer System - Rohith AP, Ronit Halder, V Nidhin Krishnan.
 	6. Combined Neural Models: Comparison and Analysis - Soumalya, Srinighi, Bala
+	7. Transfer Learning for NLP with application to detecting duplicate question pairs - Krishna Bharat, Rantej, Ravi Shankar
   
 ## -----------------------------------------------------------------------------
 
@@ -51,3 +52,11 @@ Team Members - Soumalya Seal, Srinidhi R, Balasubramaniam S
 	* Xingyou Wang,Weijie Jiang, Zhiyong Luo **Combination of Convolutional and Recurrent Neural Network for Sentiment Analysis of Short Texts.** [[Paper](https://pdfs.semanticscholar.org/a0c3/b9083917b6c2368ebf09483a594821c5018a.pdf)]
 	* Chunting Zhou, Chonglin Sun, Zhiyuan Liu, Francis C.M. Lau **A C-LSTM Neural Network for Text Classification**. [[Paper](https://arxiv.org/abs/1511.08630)]
 	* Siwei Lai, Liheng Xu, Kang Liu, Jun Zhao **Recurrent convolutional neural networks for text classification**. [[Paper](https://pdfs.semanticscholar.org/eba3/6ac75bf22edf9a1bfd33244d459c75b98305.pdf)]
+	
+	
+### Transfer Learning for NLP with application to detecting duplicate question pairs -
+Team Members -  Krishna Bharat, Rantej, Ravi Shankar
+1. October 13th, 2017:
+	* Lili Mou, Zhao Meng,Rui Yan, Ge Li, Yan Xu, Lu Zhang, Zhi Jin **How Transferable are Neural Networks in NLP Applications?** [[Paper](https://arxiv.org/pdf/1603.06111.pdf)]
+	* Zhilin Yang, Ruslan Salakhutdinov, William W Cohen **Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks**. [[Paper](https://arxiv.org/pdf/1703.06345.pdf)]
+	* Seunghyun Yoon, Hyeongu Yun, Yuna Kim, Gyu-tae Park, Kyomin Jung **Efficient Transfer Learning Schemes for Personalized Language Modeling using Recurrent Neural Network**. [[Paper](https://arxiv.org/pdf/1701.03578.pdf)]
