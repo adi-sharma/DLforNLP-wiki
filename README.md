@@ -14,6 +14,7 @@ Wiki for the Deep Learning for Natural Language Processing [course](http://www.c
 	8. Neural Machine Translation - Kinsuk Sarkar, Maulik Parmar, Ayappa Kumar
 	9. Topic Modeling - Tushar, Sridhar
 	10. Reinforcement Learning for NLP - Keshav
+	11. Classification using Sentence Level Embedding - Shikhar Verma, Nitin Kumar, Shubham Goel
 
 	
   
@@ -85,3 +86,10 @@ Team Members - Keshav
 1. November 8th, 2017:
 	* Yogatama, D., Blunsom, P., Dyer, C., Grefenstette, E. and Ling, W., **Learning to compose words into sentences with reinforcement learning.** [[Paper](https://arxiv.org/pdf/1611.09100.pdf)]
 	* Tai, K.S., Socher, R. and Manning, C.D., **Improved semantic representations from tree-structured long short-term memory networks**. [[Paper](https://arxiv.org/pdf/1503.00075)]
+	
+	
+### Classification using Sentence Level Embedding
+Team Members - Shikhar Verma, Nitin Kumar, Shubham Goel
+1. November 8th, 2017:
+	* Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler. 2015. **Skip Thought Vectors.** [[Paper](https://papers.nips.cc/paper/5950-skip-thought-vectors.pdf)]
+	* Matteo Pagliardini, Prakhar Gupta, Martin Jaggi. 2017. **Unsupervised Learning of Sentence Embeddings using Compositional n-gram features**. [[Paper](https://arxiv.org/pdf/1703.02507.pdf)]
