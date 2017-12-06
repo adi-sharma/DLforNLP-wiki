@@ -101,6 +101,20 @@ Team Members - Shikhar Verma, Nitin Kumar, Shubham Goel
 
 ## Papers Covered by Professors
 
-### Word Vectors
+### Basics of Optimization
+* [Blog Post] Sebastian Ruder. **An overview of gradient descent optimization algorithms** [[Link](http://ruder.io/optimizing-gradient-descent/)]
 
+### Word Vectors
 * Mikolov, T., Sutskever, I., Chen, K., Corrado, G.S. and Dean, J., 2013. **Distributed representations of words and phrases and their compositionality**. In Advances in neural information processing systems [[Paper](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality)]
+* Pennington, J., Socher, R. and Manning, C., 2014. **Glove: Global vectors for word representation**. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) [[Paper](http://www.aclweb.org/anthology/D14-1162)]
+
+### Language Modelling
+* Bengio, Y., Ducharme, R., Vincent, P. and Jauvin, C., 2003. **A neural probabilistic language model**. Journal of machine learning research [[Paper](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)]
+
+### Text Classification
+* Joulin, A., Grave, E. and Mikolov, P.B.T., 2017. **Bag of Tricks for Efficient Text Classification**. EACL [[Paper](http://www.aclweb.org/anthology/E/E17/E17-2068.pdf)]
+* Kim, Y., 2014. **Convolutional Neural Networks for Sentence Classification**. EMNLP [[Paper](https://arxiv.org/abs/1408.5882)]
+
+### Networks
+* Hochreiter, S. and Schmidhuber, J., 1997. **Long short-term memory**. Neural computation. [[Paper](http://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735)]
+* [Blog Post] Christopher Olah. **Understanding LSTM Networks** [[Link](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)]
