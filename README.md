@@ -135,6 +135,9 @@ Team Members - Shikhar Verma, Nitin Kumar, Shubham Goel
 
 ### Attention
 * Yin, W., Schütze, H., Xiang, B. and Zhou, B., 2016. Abcnn: Attention-based convolutional neural network for modeling sentence pairs. In TACL [[Paper](http://www.anthology.aclweb.org/Q/Q16/Q16-1019.pdf)]
+* Yang, Z., Yang, D., Dyer, C., He, X., Smola, A.J. and Hovy, E.H., 2016. **Hierarchical Attention Networks for Document Classification**. In HLT-NAACL [[Paper](http://www.aclweb.org/anthology/N16-1174)]
+* Rocktäschel, T., Grefenstette, E., Hermann, K.M., Kočiský, T. and Blunsom, P., 2015. Reasoning about entailment with neural attention. [[Paper](https://arxiv.org/abs/1509.06664)]
+
 
 ### Visualization
 * Zeiler, M.D. and Fergus, R., 2014, September. **Visualizing and understanding convolutional networks**. In European conference on computer vision (pp. 818-833). Springer, Cham. [[Paper](https://arxiv.org/pdf/1311.2901.pdf)]
