@@ -132,3 +132,9 @@ Team Members - Shikhar Verma, Nitin Kumar, Shubham Goel
 ### Neural Machine Translation
 * Bahdanau, D., Cho, K. and Bengio, Y., 2014.**Neural machine translation by jointly learning to align and translate**. [[Paper](https://arxiv.org/abs/1409.0473)]
 * Freitag, M. and Al-Onaizan, Y., 2017. **Beam Search Strategies for Neural Machine Translation**. [[Paper](https://arxiv.org/abs/1702.01806)] 
+
+### Attention
+* Yin, W., Schütze, H., Xiang, B. and Zhou, B., 2016. Abcnn: Attention-based convolutional neural network for modeling sentence pairs. In TACL [[Paper](http://www.anthology.aclweb.org/Q/Q16/Q16-1019.pdf)]
+
+### Visualization
+* Zeiler, M.D. and Fergus, R., 2014, September. **Visualizing and understanding convolutional networks**. In European conference on computer vision (pp. 818-833). Springer, Cham. [[Paper](https://arxiv.org/pdf/1311.2901.pdf)]
