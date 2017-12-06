@@ -107,9 +107,16 @@ Team Members - Shikhar Verma, Nitin Kumar, Shubham Goel
 ### Word Vectors
 * Mikolov, T., Sutskever, I., Chen, K., Corrado, G.S. and Dean, J., 2013. **Distributed representations of words and phrases and their compositionality**. In Advances in neural information processing systems [[Paper](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality)]
 * Pennington, J., Socher, R. and Manning, C., 2014. **Glove: Global vectors for word representation**. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) [[Paper](http://www.aclweb.org/anthology/D14-1162)]
+* Wieting, J., Bansal, M., Gimpel, K. and Livescu, K., 2016. **Charagram: Embedding words and sentences via character n-grams**. [[Paper](https://arxiv.org/abs/1607.02789)]
 
 ### Language Modelling
 * Bengio, Y., Ducharme, R., Vincent, P. and Jauvin, C., 2003. **A neural probabilistic language model**. Journal of machine learning research [[Paper](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)]
+* Mikolov, T., Karafiát, M., Burget, L., Cernocký, J. and Khudanpur, S., 2010, September. **Recurrent neural network based language model**. In Interspeech (Vol. 2, p. 3). [[Paper](http://www.fit.vutbr.cz/research/groups/speech/servite/2010/rnnlm_mikolov.pdf)]
+* Dauphin, Y.N., Fan, A., Auli, M. and Grangier, D., 2016. **Language modeling with gated convolutional networks**. [[Paper](https://arxiv.org/abs/1612.08083)]
+* Zhao, H., Lu, Z. and Poupart, P., 2015, July. **Self-Adaptive Hierarchical Sentence Model**. In IJCAI [[Paper](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/download/10828/11307)]
+* Conneau, A., Kiela, D., Schwenk, H., Barrault, L. and Bordes, A., 2017. **Supervised Learning of Universal Sentence Representations from Natural Language Inference Data**. In EMNLP [[Paper](http://aclweb.org/anthology/D/D17/D17-1070.pdf)]
+* Kim, Y., Jernite, Y., Sontag, D. and Rush, A.M., 2016, February. **Character-Aware Neural Language Models**. In AAAI [[Paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12489/12017)]
+
 
 ### Text Classification
 * Joulin, A., Grave, E. and Mikolov, P.B.T., 2017. **Bag of Tricks for Efficient Text Classification**. EACL [[Paper](http://www.aclweb.org/anthology/E/E17/E17-2068.pdf)]
@@ -118,3 +125,10 @@ Team Members - Shikhar Verma, Nitin Kumar, Shubham Goel
 ### Networks
 * Hochreiter, S. and Schmidhuber, J., 1997. **Long short-term memory**. Neural computation. [[Paper](http://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735)]
 * [Blog Post] Christopher Olah. **Understanding LSTM Networks** [[Link](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)]
+* Srivastava, N., Hinton, G.E., Krizhevsky, A., Sutskever, I. and Salakhutdinov, R., 2014. **Dropout: a simple way to prevent neural networks from overfitting**. Journal of machine learning research [[Paper](http://jmlr.org/papers/v15/srivastava14a.html)]
+* Chung, J., Gulcehre, C., Cho, K. and Bengio, Y., 2014. **Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling**. [[Paper](https://arxiv.org/abs/1412.3555)]
+* Koch, G., Zemel, R. and Salakhutdinov, R., 2015. **Siamese neural networks for one-shot image recognition**. In ICML Deep Learning Workshop. [[Paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)]
+
+### Neural Machine Translation
+* Bahdanau, D., Cho, K. and Bengio, Y., 2014.**Neural machine translation by jointly learning to align and translate**. [[Paper](https://arxiv.org/abs/1409.0473)]
+* Freitag, M. and Al-Onaizan, Y., 2017. **Beam Search Strategies for Neural Machine Translation**. [[Paper](https://arxiv.org/abs/1702.01806)] 
