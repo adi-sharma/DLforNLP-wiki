@@ -31,7 +31,7 @@ Team Members - Aditya Sharma, Chandrahas
 1. October 13th, 2017:
 	* Levy, O. and Goldberg, Y., 2014. **Neural word embedding as implicit matrix factorization**. In Advances in neural information processing systems (pp. 2177-2185). [[Paper]](http://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf)
 	* Levy, O., Goldberg, Y. and Dagan, I., 2015. **Improving distributional similarity with lessons learned from word embeddings**. Transactions of the Association for Computational Linguistics, 3, pp.211-225. [[Paper]](http://www.aclweb.org/anthology/Q15-1016)
-	* Mimno, D. and Thompson, L., 2017. **The strange geometry of skip-gram with negative sampling.** In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (pp. 2863-2868). [[Paper]](http://www.aclweb.org/anthology/D17-1307)
+	* Mimno, D. and Thompson, L., 2017. **The strange geometry of skip-gram with negative sampling.** In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (pp. 2863-2868). [[Paper]](http://www.cs.cornell.edu/~laurejt/papers/sgns-geometry-2017.pdf)
 
 ### Comparative Study of Neural Language Models
 Team Members - Abhinash Khare, Soham Pal, Sruthi Gorantla
