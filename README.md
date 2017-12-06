@@ -20,6 +20,8 @@ Wiki for the Deep Learning for Natural Language Processing [course](http://www.c
   
 ## -----------------------------------------------------------------------------
 
+## Papers Covered by Students
+
 ### Understanding the Geometrical Relationship among Word Vectors
 Team Members - Aditya Sharma, Chandrahas
 1. October 13th, 2017:
@@ -93,3 +95,12 @@ Team Members - Shikhar Verma, Nitin Kumar, Shubham Goel
 1. November 8th, 2017:
 	* Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler. 2015. **Skip Thought Vectors.** [[Paper](https://papers.nips.cc/paper/5950-skip-thought-vectors.pdf)]
 	* Matteo Pagliardini, Prakhar Gupta, Martin Jaggi. 2017. **Unsupervised Learning of Sentence Embeddings using Compositional n-gram features**. [[Paper](https://arxiv.org/pdf/1703.02507.pdf)]
+	
+
+## -----------------------------------------------------------------------------
+
+## Papers Covered by Professors
+
+### Word Vectors
+
+* Mikolov, T., Sutskever, I., Chen, K., Corrado, G.S. and Dean, J., 2013. **Distributed representations of words and phrases and their compositionality**. In Advances in neural information processing systems [[Paper](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality)]
