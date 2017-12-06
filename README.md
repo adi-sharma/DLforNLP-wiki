@@ -84,7 +84,6 @@ Team Members - Kinsuk Sarkar, Maulik Parmar, Ayappa Kumar
 ### Topic Modeling
 Team Members - Tushar, Sridhar
 1. October 20th, 2017:
-	* Moody, **Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec.** [[Paper](https://arxiv.org/abs/1605.02019)]
 	* Sridhar, V.K.R., **Unsupervised Topic Modeling for Short Texts Using Distributed Representations of Words**. [[Paper](http://www.aclweb.org/anthology/W15-1526)]
 	* Batmanghelich, K., Saeedi, A., Narasimhan, K. and Gershman, S., 2016. **Nonparametric spherical topic modeling with word embeddings**. [[Paper](https://arxiv.org/pdf/1604.00126.pdf)]
 	
